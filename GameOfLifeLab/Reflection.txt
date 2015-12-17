@@ -56,3 +56,11 @@ o o o o o o o o
 o o o o o o o o
 o o o o o X X o
 o o o o o X X o
+
+REFLECTION
+-----------------------------------------------------------------------
+This lab kicked my a** to be honest. I couldn't figure out the gridworld for the life of me and honestly didn't know where to go.
+My number one reccomendation to future students is ask questions early. I had no idea what I was doing until I skyped with my friend who
+is a developer and had him explain what I had to do. I learned that Java is frustrating but documentation helps a ton. I liked the game;
+it is an hard concept to grasp at first but once you get over that hill it's pretty easy. I didn't like the gridworld documentation and 
+how I would try something and it would throw an error, but that's programming I guess.
